@@ -1,0 +1,39 @@
+table,td,th{
+
+    border:  3px solid rgb(175, 27, 224);
+    border-collapse: collapse;
+    
+}
+table{
+    width: 800px;
+    height: 300px;
+}
+h1{
+    font-family: 'Lilita One', cursive;
+    font-size: 50px;
+    color: blueviolet;
+}
+td{
+    font-family: 'Lilita One', cursive;
+    font-size: 20px;
+    text-align: center;
+    
+    color: rgb(92, 17, 162);
+}
+
+th{
+    font-family: 'Lilita One', cursive;
+    font-size: 20px;
+    color: rgb(106, 10, 195);
+    text-align: center;
+}
+
+body{
+    background-image: url(background2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cred{
+    color: blueviolet;
+}
