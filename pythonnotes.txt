@@ -1,0 +1,5 @@
+Dictionary 
+are used to store value in key value pair dictionaries are written in curly braces {} Dictionary is collection of changable values but it doesnt allow 
+Syntax: dict-name = {key:value1,key:value2,key:valuen}
+eg
+dict_class={"rollno":1,"name":"yash","precentage": 88.88}
